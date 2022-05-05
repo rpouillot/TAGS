@@ -1,6 +1,6 @@
 # TAGS: evaluation of Tests in the Absence of a Gold Standard 
 
-This repository include the R code for the <a href="http://www.thesearemyapps.com/Tags/">TAGS</a> R shiny application.
+This repository includes the R code for the <a href="http://www.thesearemyapps.com/Tags/">TAGS</a> R shiny application.
 
 The TAGS software can be used to estimate the sensitivity of two or more diagnostic tests in the absence of a gold standard, provided two or more populations with differing prevalences can be cross-classified based on diagnostic test results. 
 
